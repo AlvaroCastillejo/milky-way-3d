@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\documents\universidad\grafics\external\miquel\raul.prim_alvaro.castillejo\src\main.cpp(81): warning C4267: 'inicializando': conversión de 'size_t' a 'GLuint'; posible pérdida de datos
+d:\documents\universidad\grafics\external\miquel\raul.prim_alvaro.castillejo\src\main.cpp(87): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+d:\documents\universidad\grafics\external\miquel\raul.prim_alvaro.castillejo\src\main.cpp(89): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+d:\documents\universidad\grafics\external\miquel\raul.prim_alvaro.castillejo\src\main.cpp(92): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+d:\documents\universidad\grafics\external\miquel\raul.prim_alvaro.castillejo\src\main.cpp(95): warning C4267: '=': conversión de 'size_t' a 'GLuint'; posible pérdida de datos
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Graphics_1.vcxproj -> D:\Documents\Universidad\GRAFICS\external\Miquel\raul.prim_alvaro.castillejo\visual_studio\..\Graphics_1.exe
